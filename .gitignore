@@ -4,3 +4,4 @@ __pycache__/
 data/generated/
 data/full/
 *.db
+data/inventory_export.sql
